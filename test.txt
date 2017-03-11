@@ -1,0 +1,27 @@
+ENVI ASCII Plot File [Sun Mar  5 00:06:04 2017]
+Column 1: Band Number
+Column 2: Mean: red_1 [Magenta] 20 points~~7
+Column 3: Mean: red_2 [Red] 12 points~~2 
+Column 4: Mean: red_3 [Green] 12 points~~3
+Column 5: Mean: red_4 [Blue] 15 points~~4
+Column 6: Mean: red_5 [Yellow] 20 points~~5
+Column 7: Mean: red_6 [Cyan] 25 points~~6
+Column 8: Mean: red_7 [Maroon] 16 points~~8
+Column 9: Mean: red_8 [Sea Green] 6 points~~9
+Column 10: Mean: red_9 [Purple] 12 points~~10
+Column 11: Mean: red_10 [Coral] 6 points~~11
+Column 12: Mean: bcs_1 [Aquamarine] 16 points~~12
+Column 13: Mean: bcs_2 [Orchid] 16 points~~13
+Column 14: Mean: bcs_3 [Sienna] 30 points~~14
+Column 15: Mean: bcs_4 [Chartreuse] 16 points~~15
+Column 16: Mean: bcs_5 [Thistle] 25 points~~16
+Column 17: Mean: bcs_6 [Red1] 16 points~~17
+Column 18: Mean: bcs_7 [Red2] 15 points~~18
+Column 19: Mean: bcs_8 [Red3] 12 points~~19
+Column 20: Mean: bcs_9 [Green1] 20 points~~20
+Column 21: Mean: bcs_10 [Green2] 20 points~~21
+1.000000  0.061581  0.078073  0.057892  0.065844  0.090056  0.088098     0.089036  0.077258  0.055721  0.124091  0.037674  0.040654  0.037246  0.049291  0.041737  0.052611  0.059882  0.057625  0.054079  0.053647
+2.000000  0.042688  0.037923  0.045340  0.046383  0.046419  0.047063  0.053226  0.049161  0.028502  0.026902  0.057672  0.045742  0.028775  0.041979  0.038616  0.046102  0.053043  0.029172  0.045776  0.040539
+3.000000  0.018434  0.036316  0.032751  0.024035  0.027343  0.027738  0.036514  0.014953  0.022183  0.034359  0.010836  0.014596  0.011336  0.014386  0.011091  0.016790  0.014971  0.016921  0.016966  0.019890
+4.000000  0.018490  0.015526  0.018201  0.014678  0.016888  0.013276  0.024992  0.019930  0.014847  0.007780  0.018094  0.009815  0.006283  0.014529  0.012734  0.009747  0.011569  0.007291  0.013920  0.008032
+
