@@ -1,4 +1,6 @@
-# Envi --> ascii file
+# Read ascii file in envi
+# Useful for 214b project
+
 # Credit: http://stackoverflow.com/questions/42615659/organize-txt-file-into-data-frame-in-r/42634354?noredirect=1#comment72410711_42634354
 
 setwd("~/Desktop") # set your working directory to wherever your ascii file is
